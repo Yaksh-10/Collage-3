@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova&family=Oxygen:wght@300&family=Ubuntu:ital@1&display=swap');
+body{
+    background-color: coral;
+    font-family: 'Oxygen', sans-serif;
+}
+img{
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    display: inline;
+    border-radius: 50px;
+}
+button
+{
+    background-color: aqua;
+    border: cyan;
+    border-radius: 5px;
+    height: 40px;
+    width: 75px;
+    font-size: 20px;
+}
+img:hover
+{
+    border-radius: 140px;
+}
